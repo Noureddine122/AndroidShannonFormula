@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="button">Button</string>
+    <string name="entrez_la_bande_passante">Entrez La bande passante</string>
+    <string name="entrez_rapidit">Entrez rapidité</string>
+    <string name="entrez_le_raport_en_db">Entrez le raport en db</string>
+</resources>
